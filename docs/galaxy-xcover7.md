@@ -1,0 +1,3 @@
+# 2. galaxy_xcover7.py
+
+... (full content from galaxy-xcover7.md) ...

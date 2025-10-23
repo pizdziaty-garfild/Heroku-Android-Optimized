@@ -1,0 +1,3 @@
+# 1. termux_installer.sh
+
+... (full content from termux-installer.md) ...
